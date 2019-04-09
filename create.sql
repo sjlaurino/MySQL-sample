@@ -42,6 +42,7 @@ USE flowershopsql;
 -- ADD COLUMN id int
 
 -- ALTER TABLE flowerBouquets MODIFY COLUMN id INT NOT NULL AUTO_INCREMENT PRIMARY KEY;
+-- must have primary key to add id!!!
 -- ALTER TABLE flowerBouquets MODIFY COLUMN id INT NOT NULL;
 -- DROP TABLE flowerBouquets
 -- ALTER TABLE flowerBouquets DROP COLUMN name;
